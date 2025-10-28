@@ -1,11 +1,5 @@
-### Hi there 👋
-
-<!--
-**heshsandaru/heshsandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi 👋, I'm Heshan Sandaruwan
+💻 Full Stack Developer | MERN & Spring Boot | Passionate about building solutions
+heshansandaruwan
 
 
-- 🌱 I’m currently learning ...
-
--->

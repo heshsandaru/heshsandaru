@@ -40,7 +40,7 @@
 | Project | Description | Tech |
 |----------|--------------|------|
 | [Second-Semester-Final-Project-AAD](https://github.com/heshsandaru/Second-Semester-Final-Project-AAD) |Bus Ticket Boking System| Spring Boot,  HTML, CSS, JS |
-| [Portfolio Website](https://github.com/heshsandaru/my-portfolio) | Responsive portfolio site | React, Tailwind CSS |
+| [Portfolio Website](https://github.com/heshsandaru/my-react-portfolio) | Responsive portfolio site | React, Tailwind CSS |
 | [POS System in Computer shop](https://github.com/heshsandaru/webApplicationAAD) | e-commerce web application | JavaEE, JDBC, |
 
 ---
@@ -54,9 +54,10 @@
   <a href="mailto:heshansandaruwan999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/HeshanSandaruwan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://www.instagram.com/hesh_sandaru_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 ---

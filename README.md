@@ -7,11 +7,15 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🔭 I’m currently working on **Smart Parking System using Spring Boot**
+- 🔭 I’m currently study on **Software engineer**
 - 🌱 Learning **Microservices | Docker | Cloud**
-- 💬 Ask me about **Java, React, or Network Design**
-- ⚡ Fun fact: I love creating real-world projects & teaching coding in Sinhala 🇱🇰
+- 💬 Ask me about **Java, React, or Spring boot**
+- ⚡ Fun fact: I love creating real-world projects�🇰
 
+---
+### 📫Reach Me 
+- 📧 Email: heshansandaruwan999@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/heshansandaruwan/
 ---
 
 ### 🛠️ Tech Stack
@@ -25,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HeshanSandaruwan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HeshanSandaruwan&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heshsandaru&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
 </p>
 
 ---
@@ -35,9 +39,9 @@
 
 | Project | Description | Tech |
 |----------|--------------|------|
-| [Smart Parking System](https://github.com/HeshanSandaruwan/smart-parking) | IoT-based parking management | Spring Boot, React |
-| [Portfolio Website](https://github.com/HeshanSandaruwan/portfolio) | Responsive portfolio site | HTML, CSS, JS |
-| [Broom Export Management](https://github.com/HeshanSandaruwan/broom-export) | Inventory & sales system | Java, MySQL |
+| [Second-Semester-Final-Project-AAD](https://github.com/heshsandaru/Second-Semester-Final-Project-AAD) |Bus Ticket Boking System| Spring Boot,  HTML, CSS, JS |
+| [Portfolio Website](https://github.com/heshsandaru/my-portfolio) | Responsive portfolio site | React, Tailwind CSS |
+| [POS System in Computer shop](https://github.com/heshsandaru/webApplicationAAD) | e-commerce web application | JavaEE, JDBC, |
 
 ---
 
@@ -47,7 +51,7 @@
   <a href="https://linkedin.com/in/heshansandaruwan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:heshansandaruwan@gmail.com">
+  <a href="mailto:heshansandaruwan999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/HeshanSandaruwan">
@@ -60,7 +64,7 @@
 ### ⚡ Activity & Fun
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeshanSandaruwan&bg_color=1a1b27&color=00BFFF&line=00BFFF&point=FFFFFF&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshsandaru&bg_color=1a1b27&color=00BFFF&line=00BFFF&point=FFFFFF&area=true" />
 </p>
 
 <p align="center">
